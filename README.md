@@ -246,12 +246,6 @@ The current implementation includes password hashing, JWT sessions, role checks,
 - Secret scanning and environment separation.
 - Removal or strict protection of diagnostics and debug endpoints.
 
-## Documentation
-
-- [`PROBLEM.md`](PROBLEM.md) - problem analysis and implementation approach
-- [`SUGGESTION.md`](SUGGESTION.md) - engineering tasks for a production-grade repository
-- [`docs/FEATURE_IMPLEMENTATION.md`](docs/FEATURE_IMPLEMENTATION.md) - recent notification and download feature notes
-
 ## License
 
-Add an explicit license before public distribution if the repository is intended for reuse or external contribution.
+This project is licensed under the [MIT License](LICENSE).
